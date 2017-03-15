@@ -1,0 +1,45 @@
+{
+  "name": "react-native-image-progress",
+  "version": "0.6.0",
+  "description": "Progress indicator for networked images, supports progress bar and spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "ui",
+    "image",
+    "progress",
+    "bar",
+    "progressbar",
+    "spinner",
+    "activityindicator",
+    "loading",
+    "indicator"
+  ],
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "homepage": "https://github.com/oblador/react-native-image-progress",
+  "bugs": {
+    "url": "https://github.com/oblador/react-native-image-progress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/react-native-image-progress.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.9.0",
+    "eslint-plugin-react": "^5.0.1"
+  }
+}
